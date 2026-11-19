@@ -263,9 +263,9 @@ namespace MDD4All.SpecIF.Generators.Metadata
 
 
 
-                newPropertyClass.DataType = GenerateOrFindDataType();
+                //newPropertyClass.DataType = GenerateOrFindDataType();
 
-                PropertyClasses.Add(result, newPropertyClass);
+                //PropertyClasses.Add(result, newPropertyClass);
 
 
             }
